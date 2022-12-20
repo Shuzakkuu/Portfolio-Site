@@ -204,6 +204,31 @@ main{
     background-color: rgba(0, 0, 0, 0.2);
 }
 
+.talent2grid{
+    display: grid;
+    margin: auto;
+    text-align: center;
+    grid-template: 10vw 10vw 10vw / 40vw;
+    width: 40vw;
+    grid-gap: 3vw;
+    margin-bottom: 10vw;
+    margin-top: 5vw;
+}
+
+.talent2a{
+    border: black 2px solid;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.talent2b{
+    border: black 2px solid;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.talent2c{
+    border: black 2px solid;
+    background-color: rgba(0, 0, 0, 0.2);
+}
 
 a {
     text-decoration: none; color: whitesmoke;
